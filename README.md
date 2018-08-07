@@ -1,8 +1,8 @@
-# Projeto Prático em Java EE (Web)
+# Pratice Project in Java EE
 
 ## [Angular](https://angular.io/docs)
 ## [Material Design](https://materializecss.com/getting-started.html)
-## Banco de dados não relacional [MongoDB](https://www.mongodb.com/)
-## Autenticação
+## Database NoSQL [MongoDB](https://www.mongodb.com/)
+## Autentication
 ## RESTFul
-## Testes automatizados
+## Automated Tests
